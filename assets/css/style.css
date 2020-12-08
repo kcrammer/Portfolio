@@ -1,0 +1,49 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  }
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+}
+  
+  html {
+    position: relative;
+    min-height: 100%
+  }
+  
+  .navbar {
+    border-bottom: 1px solid #efefef;
+  }
+  
+  .logo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #4aaaa5;
+    padding: 10px;
+    color: #fff !important;
+  }
+  
+  main {
+    margin: 80px 0;
+  }
+  
+  img {
+    padding: 10px;
+  }
+
+  .row {
+    padding: 10px;
+  }
+  /* ------------------------- */
+  /* other styles will be here */
+  /* ------------------------- */
+  
+  .footer {
+    height: 62px;
+    border-top: 6px solid #4aaaa5;
+    margin-top: 3px;
+    background-color: #666;
+    padding-top: 14px;
+    color: #fff;
+  }
